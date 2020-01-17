@@ -36,6 +36,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 //        });
 //
 
+        kotlin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
+
         }
 
     @Override
